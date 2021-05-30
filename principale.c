@@ -30,11 +30,11 @@ int main() {
     printf("\n\n                                             |  |                        |.\n");
     printf("\n\n                                             \\_|                         |.\n");
     printf("\n\n                                               |                         |.\n");
-    printf("\n\n                                               |  1  imposta il gioco    |.\n");    //freccia
+    printf("\n\n                                               |  1 ⭢ imposta il gioco  |.\n");    //freccia
     printf("\n\n                                               |                         |.\n");
-    printf("\n\n                                               |         2  gioca        |.\n");
+    printf("\n\n                                               |         2 ⭢ gioca      |.\n");
     printf("\n\n                                               |                         |.\n");
-    printf("\n\n                                               |    3 termina gioco      |.\n");
+    printf("\n\n                                               |    3 ⭢ termina gioco   |.\n");
     printf("\n\n                                               |                         |.\n");
     printf("\n\n                                               |   ______________________|_\n");
     printf("\n\n                                               |  /                       /\n");
